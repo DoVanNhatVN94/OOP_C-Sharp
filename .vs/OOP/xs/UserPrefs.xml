@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F93DB6BA-0A5D-4A58-8CBB-72C9925C58A5}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOP/BankAcount.cs">
+    <Files>
+      <File FileName="OOP/Program.cs" />
+      <File FileName="OOP/Transaction.cs" Line="17" Column="85" />
+      <File FileName="OOP/BankAcount.cs" Line="36" Column="121" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OOP" expanded="True">
+            <Node name="OOP" expanded="True">
+              <Node name="BankAcount.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
